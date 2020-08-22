@@ -1,4 +1,4 @@
-# MSState COVID Dashboard
+# MSState COVID Scraper
 
 This is a simple scraper for the [Mississippi State University COVID-19 Campus Testing site](https://www.msstate.edu/covid19/campus-testing "Latest COVID-19 Campus Testing") that tracks the last few weeks into a simple JSON file for use by anyone. I'm using it for my simple MSState Bully Dashboard, but anyone case use it.
 
