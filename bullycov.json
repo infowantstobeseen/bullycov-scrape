@@ -5,5 +5,12 @@
     "employees_negative": 40,
     "students_positive": 14,
     "students_negative": 200
+  },
+  {
+    "date": "20202408",
+    "employees_positive": 1,
+    "employees_negative": 85,
+    "students_positive": 70,
+    "students_negative": 380
   }
 ]

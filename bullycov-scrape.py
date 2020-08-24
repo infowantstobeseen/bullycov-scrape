@@ -37,6 +37,7 @@ def to_int(s):
 def scrape():
     # Load page and parse
     page = requests.get(site)
+    page.raise_for_status()
     tree = html.fromstring(page.content)
 
     # Extract last update, put into iso-format for keying
