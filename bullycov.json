@@ -12,5 +12,12 @@
     "employees_negative": 85,
     "students_positive": 70,
     "students_negative": 380
+  },
+  {
+    "date": "20203108",
+    "employees_positive": 0,
+    "employees_negative": 85,
+    "students_positive": 136,
+    "students_negative": 449
   }
 ]
